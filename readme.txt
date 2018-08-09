@@ -2,4 +2,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has mutable index called stage.
 git track changes of files.
-create a new branch is quick and simple.
+create a new branch is quick & simple.
+no-ff merge.
+Git stash.
